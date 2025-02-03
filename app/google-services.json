@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1092747361455",
+    "project_id": "ttfinal-f6acd",
+    "storage_bucket": "ttfinal-f6acd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092747361455:android:1ce25f4eedec669a75a85a",
+        "android_client_info": {
+          "package_name": "com.example.ttfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGbrbfK5sfrbOxqW7NJWWKoyLa5Ggzd5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
